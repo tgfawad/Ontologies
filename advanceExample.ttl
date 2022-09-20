@@ -10,7 +10,7 @@
 
 <http://example.com/> rdf:type owl:Ontology ;
                              dc:description "Advanced Modified Example Ontology. Holding multiple sub ontologies "@en ;
-                             dc:title "Advanced Test Example Ontology."@en ;
+                             dc:title "Advanced Test 123 Example Ontology."@en ;
                              owl:versionInfo "Version 0.1"@en .
 
 
