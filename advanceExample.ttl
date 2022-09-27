@@ -113,13 +113,5 @@ ex:knows a owl:ObjectProperty;
                 rdfs:domain ex:Member;
                 rdfs:range ex:Member .
 
-
-
-
-
-
-
-
-
 ex:Member a owl:Class;
 rdfs:label "Member" .
