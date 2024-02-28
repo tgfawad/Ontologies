@@ -1,4 +1,4 @@
-{
+[
 {
    "label": "John",
    "id": "Doe",
@@ -13,4 +13,4 @@
    "status": "Happy and Healthy",
    "comment": "great guy"
 }
-}
+]
